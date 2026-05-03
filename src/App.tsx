@@ -88,9 +88,7 @@ export default function App() {
           <span className="font-bold text-base sm:text-lg tracking-tight uppercase">
             The Holy Armies of <span className="text-indigo-600">Zion</span>
           </span>
-          <a href="#register" className="bg-slate-900 text-white px-5 py-2 rounded-lg text-sm font-semibold hover:bg-indigo-600 transition-colors">
-            Attend Meeting
-          </a>
+          
         </div>
       </nav>
 
