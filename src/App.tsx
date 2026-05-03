@@ -86,7 +86,7 @@ export default function App() {
       <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-slate-100">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
           <span className="font-bold text-base sm:text-lg tracking-tight uppercase">
-            Holy Armies of <span className="text-indigo-600">Zion</span>
+            The Holy Armies of <span className="text-indigo-600">Zion</span>
           </span>
           <a href="#register" className="bg-slate-900 text-white px-5 py-2 rounded-lg text-sm font-semibold hover:bg-indigo-600 transition-colors">
             Attend Meeting
